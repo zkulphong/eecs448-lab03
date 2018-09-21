@@ -1,0 +1,25 @@
+html{
+    background-color: orange;
+}
+
+h1 {
+    color: blue;
+}
+
+h3{
+    font-family: sans-serif;
+    font-size: 22pt;
+}
+
+h3:hover{
+    background-color: pink;
+}
+
+ul{
+    background-image: url("https://images.unsplash.com/photo-1537512262293-999efb02e1a8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=00efc94254bc79a8cf32291352efe0fe&auto=format&fit=crop&w=1050&q=80");
+    background-size: 100%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    color: white;
+}
+
