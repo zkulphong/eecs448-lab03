@@ -1,0 +1,14 @@
+h1{
+    background-color: orange;
+    font-family: sans-serif;
+}
+
+ul{
+    background-color: grey;
+    color: black
+}
+
+
+li:hover{
+    color: pink;
+}
